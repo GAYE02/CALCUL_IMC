@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <h1>BIENVENUE</h1>
+        <br>
+    </header>
+    <head>
+        <meta charset="utf-8">
+        <title>MON COMPTE</title>
+        <link rel="stylesheet" href="monstyle.css">
+    </head>
+    <body>
+        <article class="i3" >
+            <h1 class="i2">SEN WERGU YARAM MOOY SUNU YITE</h1>
+            <p>
+                Dans ce site vous pouvez vous connecter a votre compte tranquillement. <br>
+                Veuillez remplir ces champs:
+            </p>
+        </article><hr>
+        <br>
+        <article class="i1">
+                <label >
+                    USERNAME:
+                    <input type="text" placeholder="Votre nom d'utilisateur" id="username" >
+                </label><br>
+                <hr>
+                <br>
+                <label >
+                    PASSWORD:
+                    <input type="password" placeholder="Mot de pass" id="password" >
+                </label><br>
+                <hr>
+                <br>
+            
+                <a type="button" href="connect.html">CONNEXION</a>
+                <a type="button"  href="www.google.com">ANNULER</a><br>
+                <br>
+                <br>
+                <a type="button" href="recuperation.html">MOT DE PASS OUBLIER</a>
+                
+        </article><br>
+        <aside>
+            <img src="toff.png" alt="sante"><br>
+            <br>
+            <a type="button" href="inscription.html">INSCRIPTION</a>
+        </aside>
+        
+        <footer>
+            <nav>
+            <a class="i4" type="button" href="">A propos</a>
+            <a class="i5" type="button" href="">Equipe</a>
+            </nav>
+        </footer>
+    </body>
+</html>
